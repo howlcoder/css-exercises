@@ -1,0 +1,11 @@
+/* chainning selectors css practice, image height/width */
+
+.avatar.proportioned{
+    height:auto;
+    width: 300px;
+}
+
+.avatar.distorted{
+    height:400px;
+    width:200px;
+}
