@@ -1,1 +1,16 @@
 /*stylesheet practice for grouping selectors*/
+.style-format{
+    background-color: white;
+    margin: auto;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.b1{
+    background-color: black;
+    color: white;
+}
+
+.b2{
+    background-color: yellow;
+}
